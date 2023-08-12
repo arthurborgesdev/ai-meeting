@@ -1,0 +1,30 @@
+{
+  "name": "ai-meeting",
+  "version": "0.0.1",
+  "description": "Group of different AI personas chatting together. Useful for brainstorming.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurborgesdev/ai-meeting.git"
+  },
+  "keywords": [
+    "ai",
+    "chatting",
+    "brainstorming",
+    "insights",
+    "ai-personas"
+  ],
+  "author": "Arthur Borges",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthurborgesdev/ai-meeting/issues"
+  },
+  "homepage": "https://github.com/arthurborgesdev/ai-meeting#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0"
+  }
+}
